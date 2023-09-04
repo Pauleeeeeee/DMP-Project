@@ -1,0 +1,26 @@
+C:\Users\Pavel\Desktop\Práce\DMP project\DMP project\DMP project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Pavel\Desktop\Práce\DMP project\DMP project\DMP project\bin\Debug\net6.0\appsettings.json
+C:\Users\Pavel\Desktop\Práce\DMP project\DMP project\DMP project\bin\Debug\net6.0\DMP project.staticwebassets.runtime.json
+C:\Users\Pavel\Desktop\Práce\DMP project\DMP project\DMP project\bin\Debug\net6.0\DMP project.exe
+C:\Users\Pavel\Desktop\Práce\DMP project\DMP project\DMP project\bin\Debug\net6.0\DMP project.deps.json
+C:\Users\Pavel\Desktop\Práce\DMP project\DMP project\DMP project\bin\Debug\net6.0\DMP project.runtimeconfig.json
+C:\Users\Pavel\Desktop\Práce\DMP project\DMP project\DMP project\bin\Debug\net6.0\DMP project.dll
+C:\Users\Pavel\Desktop\Práce\DMP project\DMP project\DMP project\bin\Debug\net6.0\DMP project.pdb
+C:\Users\Pavel\Desktop\Práce\DMP project\DMP project\DMP project\obj\Debug\net6.0\DMP project.csproj.AssemblyReference.cache
+C:\Users\Pavel\Desktop\Práce\DMP project\DMP project\DMP project\obj\Debug\net6.0\DMP project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavel\Desktop\Práce\DMP project\DMP project\DMP project\obj\Debug\net6.0\DMP project.AssemblyInfoInputs.cache
+C:\Users\Pavel\Desktop\Práce\DMP project\DMP project\DMP project\obj\Debug\net6.0\DMP project.AssemblyInfo.cs
+C:\Users\Pavel\Desktop\Práce\DMP project\DMP project\DMP project\obj\Debug\net6.0\DMP project.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Desktop\Práce\DMP project\DMP project\DMP project\obj\Debug\net6.0\DMP project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pavel\Desktop\Práce\DMP project\DMP project\DMP project\obj\Debug\net6.0\DMP project.RazorAssemblyInfo.cache
+C:\Users\Pavel\Desktop\Práce\DMP project\DMP project\DMP project\obj\Debug\net6.0\DMP project.RazorAssemblyInfo.cs
+C:\Users\Pavel\Desktop\Práce\DMP project\DMP project\DMP project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Pavel\Desktop\Práce\DMP project\DMP project\DMP project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Pavel\Desktop\Práce\DMP project\DMP project\DMP project\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Pavel\Desktop\Práce\DMP project\DMP project\DMP project\obj\Debug\net6.0\scopedcss\bundle\DMP project.styles.css
+C:\Users\Pavel\Desktop\Práce\DMP project\DMP project\DMP project\obj\Debug\net6.0\scopedcss\projectbundle\DMP project.bundle.scp.css
+C:\Users\Pavel\Desktop\Práce\DMP project\DMP project\DMP project\obj\Debug\net6.0\DMP project.dll
+C:\Users\Pavel\Desktop\Práce\DMP project\DMP project\DMP project\obj\Debug\net6.0\refint\DMP project.dll
+C:\Users\Pavel\Desktop\Práce\DMP project\DMP project\DMP project\obj\Debug\net6.0\DMP project.pdb
+C:\Users\Pavel\Desktop\Práce\DMP project\DMP project\DMP project\obj\Debug\net6.0\DMP project.genruntimeconfig.cache
+C:\Users\Pavel\Desktop\Práce\DMP project\DMP project\DMP project\obj\Debug\net6.0\ref\DMP project.dll

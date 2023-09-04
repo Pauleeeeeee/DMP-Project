@@ -1,0 +1,57 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model DMP_project.Models.ExtractedDataModel
+
+<h4>URL: @Model.NameOfURL</h4>
+<p>Total Items: @Model.TotalItems</p>
+
+
+<div class="container mt-5">
+    <h1 class="text-center">Client List</h1>
+
+    <button id="invokeIndex" class="btn btn-primary">Reload Articles</button>
+
+    <div class="row mt-4">
+
+        @foreach (var client in Model.Clients)
+        {
+            <div class="col-lg-4 col-md-6 mb4">
+                <div class="card">
+                    <img src="@client.Image" class="card-img-top" alt="@client.Name">
+                    <div class="card-body">
+                        <h5 class="card-title">@client.Name</h5>
+                        <p class="card-text">@client.Annotation</p>
+                    </div>
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item">@client.Content</li>
+                    </ul>
+                    <div class="card-body">
+                        <a href="@client.Link" class="btn btn-primary" target="_blank">Link</a>
+                    </div>
+                </div>
+                
+            </div>
+            
+       
+        }
+    </div>
+</div>
+
+@section scripts {
+    <script>
+        $(document).ready(function () {
+            $("#invokeIndex").click(function () {
+                window.location.href = '@Url.Action("Index", "Home")';
+            });
+        });
+    </script>
+}
+
+
+@*<h2 class="">@client.Name</h2>
+<p>@client.Annotation</p>
+<p>@client.Content</p>
+<a href="@client.Link" target="_blank">@client.Link</a>
+<img src="@client.Image" alt="@client.Name" />*@
